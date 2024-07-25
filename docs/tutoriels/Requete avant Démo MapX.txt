@@ -1,0 +1,7 @@
+Executer les requêtes suivantes dans phpMyAdmin avant le commencer une démo de la plateforme : 
+
+delete FROM `coefficients`;
+delete from mesures_satellites;
+delete from mesures_references;
+delete from parcelles;
+delete from territoires;
